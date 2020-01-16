@@ -1,5 +1,5 @@
 {
-    "name": "fshchh/ebay-api-php",
+    "name": "fshchh/ebay-api-sdk",
     "description": "An eBay SDK for PHP. Use the eBay API in your PHP projects.",
     "keywords": ["ebay", "api", "sdk", "PHP"],
     "type": "library",
